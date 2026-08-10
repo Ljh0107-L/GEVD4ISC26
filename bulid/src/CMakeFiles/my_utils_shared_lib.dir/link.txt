@@ -1,1 +1,0 @@
-/usr/bin/g++ -fPIC -shared -Wl,-soname,libmy_utils_shared_lib.so -o libmy_utils_shared_lib.so @CMakeFiles/my_utils_shared_lib.dir/objects1 @CMakeFiles/my_utils_shared_lib.dir/linkLibs.rsp -L"/usr/local/cuda-12.8/targets/x86_64-linux/lib/stubs" -L"/usr/local/cuda-12.8/targets/x86_64-linux/lib"

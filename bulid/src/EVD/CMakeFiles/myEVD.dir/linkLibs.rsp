@@ -1,1 +1,0 @@
- -Wl,-rpath,/home/wanghs/hpc/syEVD4SC2025/bulid/src ../libmy_api_shared_lib.so -lcurand -lcusolver -lcublas -lmkl_gf_ilp64 -lmkl_gnu_thread -lmkl_core -lgomp -fopenmp ../libmy_utils_shared_lib.so -lcurand -lcublas -lcudadevrt -lcudart_static -lrt -lpthread -ldl 

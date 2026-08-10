@@ -1,1 +1,0 @@
- -Wl,-rpath,/home/wanghs/hpc/syEVD4SC2025/bulid/src libmy_utils_shared_lib.so -lcublas -lcurand -lcudadevrt -lcudart_static -lrt -lpthread -ldl 
