@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="assets/tsinghua-ssc-logo.png" alt="Tsinghua Student Supercomputing Team" width="420">
+  <a href="https://scc-homepage.harry-chen.workers.dev">
+    <img src="assets/tsinghua-ssc-logo.png" alt="Tsinghua Student Supercomputing Team" width="420">
+  </a>
 </div>
 
 # GEVD4ISC26
@@ -463,4 +465,4 @@ timing. `--timing` prints the regular complete GEVD timing tree.
 - Jinghao Liu (刘景浩)
 - Chenyan Huang (黄晨衍)
 
-Tsinghua Student Supercomputing Team (清华大学学生超算团队)
+[Tsinghua Student Supercomputing Team (清华大学学生超算团队)](https://scc-homepage.harry-chen.workers.dev)

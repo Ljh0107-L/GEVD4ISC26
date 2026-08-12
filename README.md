@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="assets/tsinghua-ssc-logo.png" alt="清华大学学生超算团队 Tsinghua Student Supercomputing Team" width="420">
+  <a href="https://scc-homepage.harry-chen.workers.dev">
+    <img src="assets/tsinghua-ssc-logo.png" alt="清华大学学生超算团队 Tsinghua Student Supercomputing Team" width="420">
+  </a>
 </div>
 
 # GEVD4ISC26
@@ -437,4 +439,4 @@ BC 回代提供以下编译期调优选项：
 - 刘景浩（Jinghao Liu）
 - 黄晨衍（Chenyan Huang）
 
-清华大学学生超算团队（Tsinghua Student Supercomputing Team）
+[清华大学学生超算团队（Tsinghua Student Supercomputing Team）](https://scc-homepage.harry-chen.workers.dev)
