@@ -30,7 +30,55 @@ Architectures*](https://arxiv.org/abs/2511.16174)（Wang et al., arXiv:2511.1617
 **衷心感谢 EVD4SC2025 团队（Hansheng Wang 等）的出色工作与开源贡献——
 正是在他们的算法与代码基础上，我们在 ISC26 中取得了 DFTB+ 赛题第一名的成绩。**
 
-EVD 引擎部分沿用上游的 MIT 许可证（见 [`src/evd/LICENSE`](src/evd/LICENSE)）。
+本仓库以 MIT 许可证发布。顶层 [`LICENSE`](LICENSE) 同时保留上游与本仓库的
+版权声明，EVD 引擎目录下另存有原样未改动的上游声明（见
+[`src/evd/LICENSE`](src/evd/LICENSE)）。
+
+### 参考文献
+
+如果本仓库对你的工作有帮助，请引用其算法所依据的两篇论文：
+
+1. Hansheng Wang, Dajun Huang, Gaoyuan Zou, Lu Shi, Xu Jiang, Xi Wu, Hancong
+   Duan, and Shaoshuai Zhang. 2025. *Rethinking Back Transformation in 2-stage
+   Eigenvalue Decomposition on Heterogeneous Architectures.* In Proceedings of
+   the International Conference for High Performance Computing, Networking,
+   Storage and Analysis (SC '25). ACM.
+   [doi:10.1145/3712285.3759770](https://doi.org/10.1145/3712285.3759770)。
+   代码：[hansheng1001/EVD4SC2025](https://github.com/hansheng1001/EVD4SC2025)。
+2. Hansheng Wang, Ruiyi Zhan, Dajun Huang, Xingchen Liu, Qiao Li, Hancong Duan,
+   Dingwen Tao, Guangming Tan, and Shaoshuai Zhang. 2025. *Pipelined Dense
+   Symmetric Eigenvalue Decomposition on Multi-GPU Architectures.*
+   arXiv:2511.16174。<https://arxiv.org/abs/2511.16174>。
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@inproceedings{wang2025rethinking,
+  author    = {Wang, Hansheng and Huang, Dajun and Zou, Gaoyuan and Shi, Lu and
+               Jiang, Xu and Wu, Xi and Duan, Hancong and Zhang, Shaoshuai},
+  title     = {Rethinking Back Transformation in 2-stage Eigenvalue
+               Decomposition on Heterogeneous Architectures},
+  booktitle = {Proceedings of the International Conference for High Performance
+               Computing, Networking, Storage and Analysis (SC '25)},
+  year      = {2025},
+  publisher = {ACM},
+  doi       = {10.1145/3712285.3759770}
+}
+
+@misc{wang2025pipelined,
+  author        = {Wang, Hansheng and Zhan, Ruiyi and Huang, Dajun and
+                   Liu, Xingchen and Li, Qiao and Duan, Hancong and
+                   Tao, Dingwen and Tan, Guangming and Zhang, Shaoshuai},
+  title         = {Pipelined Dense Symmetric Eigenvalue Decomposition on
+                   Multi-GPU Architectures},
+  year          = {2025},
+  eprint        = {2511.16174},
+  archivePrefix = {arXiv}
+}
+```
+
+</details>
 
 ## 数值流程
 
