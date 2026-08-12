@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/tsinghua-ssc-logo.png" alt="Tsinghua Student Supercomputing Team" width="420">
+</div>
+
 # GEVD4ISC26
 
 [中文](README.md) | **English**
@@ -453,3 +457,10 @@ Fine-grained diagnostics are off by default:
 
 These modes may synchronize kernels and should not be used for production
 timing. `--timing` prints the regular complete GEVD timing tree.
+
+## Authors
+
+- Jinghao Liu (刘景浩)
+- Chenyan Huang (黄晨衍)
+
+Tsinghua Student Supercomputing Team (清华大学学生超算团队)

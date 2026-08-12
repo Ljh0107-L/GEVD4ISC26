@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/tsinghua-ssc-logo.png" alt="清华大学学生超算团队 Tsinghua Student Supercomputing Team" width="420">
+</div>
+
 # GEVD4ISC26
 
 **中文** | [English](README_EN.md)
@@ -427,3 +431,10 @@ BC 回代提供以下编译期调优选项：
 
 这些模式可能同步 CUDA 内核，不应当用于正式性能测试。常规的 `--timing`
 会输出完整 GEVD 流程的统一计时树。
+
+## 作者
+
+- 刘景浩（Jinghao Liu）
+- 黄晨衍（Chenyan Huang）
+
+清华大学学生超算团队（Tsinghua Student Supercomputing Team）
