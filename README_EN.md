@@ -1,6 +1,9 @@
 <div align="center">
   <a href="https://scc-homepage.harry-chen.workers.dev">
-    <img src="assets/tsinghua-ssc-logo.png" alt="Tsinghua Student Supercomputing Team" width="420">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/tsinghua-ssc-logo-dark.png">
+      <img src="assets/tsinghua-ssc-logo.png" alt="Tsinghua Student Supercomputing Team" width="420">
+    </picture>
   </a>
 </div>
 
